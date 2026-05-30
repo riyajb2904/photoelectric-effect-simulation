@@ -122,7 +122,20 @@ Electron emission occurs only when the photon energy exceeds the work function o
 
 \* Object-Oriented Programming
 
+Learning Outcomes
 
+This project helped me understand:
+
+Einstein's Photoelectric Theory
+Photon Energy and Frequency relationships
+Event-driven programming using Pygame
+Physics-based simulations
+Interactive GUI development in Python
+
+
+Author
+Riya Bhatt
+First-Year Engineering Student
 
 
 
